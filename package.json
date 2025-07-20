@@ -14,9 +14,11 @@
   "description": "",
   "dependencies": {
     "@langchain/anthropic": "^0.3.24",
+    "@langchain/community": "^0.3.49",
     "@langchain/core": "^0.3.66",
     "@langchain/openai": "^0.6.2",
-    "dotenv": "^17.2.0",
+    "d3-dsv": "^2.0.0",
+    "dotenv": "^16.4.7",
     "langchain": "^0.3.30",
     "node-fetch": "^2.7.0"
   },
